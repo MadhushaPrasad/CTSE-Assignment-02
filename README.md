@@ -61,6 +61,6 @@ DevSecOps practices, and cloud capabilities.
  ## 🌱 Contributors </br>
 
 <a href="https://github.com/MadhushaPrasad/CTSE-Assignment-02/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MadhushaPrasad/CTSE-Assignment-02/" />
+  <img src="https://contrib.rocks/image?repo=MadhushaPrasad/CTSE-Assignment-02" />
 </a>
 </br>
