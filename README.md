@@ -54,9 +54,10 @@ DevSecOps practices, and cloud capabilities.
 - Demonstration of the CI/CD process.
 
  <h2 align="left">Group Members</h2>
- - Silva A.D.M.P (Leader)
- - De Zoysa A.L.C
- - Disanayake N.G.U.I.
+ 
+- Silva A.D.M.P (Leader)
+- De Zoysa A.L.C
+- Disanayake N.G.U.I.
  
  ## 🌱 Contributors </br>
 
