@@ -52,3 +52,15 @@ DevSecOps practices, and cloud capabilities.
 ##### Demonstration:
 - A working prototype of the microservice deployed on chosen cloud service provider.
 - Demonstration of the CI/CD process.
+
+ <h2 align="left">Group Members</h2>
+ - Silva A.D.M.P (Leader)
+ - De Zoysa A.L.C
+ - Disanayake N.G.U.I.
+ 
+ ## 🌱 Contributors </br>
+
+<a href="https://github.com/MadhushaPrasad/CTSE-Assignment-02/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MadhushaPrasad/CTSE-Assignment-02/" />
+</a>
+</br>
