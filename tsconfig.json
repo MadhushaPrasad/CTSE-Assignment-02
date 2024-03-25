@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "outDir": "./build",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "baseUrl": "./src",
+    "paths": {
+    "*": ["node_modules/*"],
+    "@/*": ["src/*"]
+    },
+    "allowJs": true,
+    "sourceMap": false,
+    "noImplicitAny": false,
+    "noUnusedParameters": false,
+    "noUnusedLocals": true,
+    "rootDir": ".",
+    "lib": ["es6"]
+},
+"include": ["src/**/*.ts"],
+"exclude": ["node_modules"]
+}
